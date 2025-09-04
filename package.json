@@ -1,0 +1,17 @@
+{
+  "name": "code-review-app",
+  "version": "1.0.0",
+  "description": "Une application pour faciliter les revues de code.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo 'Error: no test specified' && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0",
+    "mongoose": "^5.10.9"
+  },
+  "author": "Votre Nom",
+  "license": "MIT"
+}
